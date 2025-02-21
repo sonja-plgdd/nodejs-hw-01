@@ -1,1 +1,30 @@
-[]
+[
+  {
+    "id": "f7ee4ec0-7d36-4027-ba1a-373a94bfa7f3",
+    "name": "Luke Cole",
+    "phone": "252-614-0354",
+    "email": "Elizabeth_Schamberger39@gmail.com",
+    "job": "Lead Implementation Representative"
+  },
+  {
+    "id": "d4f85ba7-a805-4bfa-88f0-67a5372b608a",
+    "name": "Guy Smith-Quitzon",
+    "phone": "(477) 476-1669 x12062",
+    "email": "Cali.Reinger@gmail.com",
+    "job": "Customer Metrics Executive"
+  },
+  {
+    "id": "0d7ea76e-9ce7-4dc8-a49b-bb7b9fc2e2dd",
+    "name": "Tim Boyle",
+    "phone": "430-259-8471 x4913",
+    "email": "Marjory53@gmail.com",
+    "job": "Lead Functionality Officer"
+  },
+  {
+    "id": "4ab0a58c-44be-49c0-b58f-72aa86a03733",
+    "name": "Dr. Jerome VonRueden",
+    "phone": "577-737-4952 x3320",
+    "email": "Benton42@hotmail.com",
+    "job": "Principal Data Assistant"
+  }
+]
